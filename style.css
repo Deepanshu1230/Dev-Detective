@@ -359,7 +359,7 @@
 @media (max-width: 768px) {
     .wrapper {
         padding:10px;
-        height:auto;
+        height:100vh;
     }
 
     .top-container {
